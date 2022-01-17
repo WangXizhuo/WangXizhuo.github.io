@@ -10,7 +10,7 @@
   The initial rule for filtering options is to select the options with the top five largest trading volume on a given day. Their position delta is calculated by linear combination. Then the quantity to trade is setted to make the whole position delta neutural.    
 - Learning Clojure
 
- During the coding process, I also learned Clojure and got deeper understanding about the data structures, especially the immutable sequences. Due to this property, we need to use `swap` and `reset` to change value. 
+  During the coding process, I also learned Clojure and got deeper understanding about the data structures, especially the immutable sequences. Due to this property, we need to use `swap` and `reset` to change value. 
   
   ## Difficulties I encountered
  - Maintain options
@@ -23,9 +23,9 @@
   ## Heading for the next stage
   - Execute automated trading
 
-  I will try to bring the idea of maintaining options into practice and write some codes to automate trading.
+    I will try to bring the idea of maintaining options into practice and write some codes to automate trading.
   - Optimizing delta
 
-  As the topic of my research, I will adjust the calculation of delta and try to optimizing delta hedging.
+    As the topic of my research, I will adjust the calculation of delta and try to optimizing delta hedging.
   
 
