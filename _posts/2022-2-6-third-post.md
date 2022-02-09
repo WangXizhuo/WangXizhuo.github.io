@@ -1,4 +1,4 @@
-# Data Science in Finance - Second Blog
+# Data Science in Finance - Third Blog
 
 
 ## Work I have done these days
