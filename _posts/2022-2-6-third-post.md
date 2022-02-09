@@ -22,6 +22,6 @@
   I will check the visualizing libraries shared in our Slack group and try to visualize the resulting data in Clojure.
   - Optimizing delta
 
-    As the topic of my research, I will adjust the calculation of delta and try to optimize delta hedging. The first step will be to take the "volatility smile" into account. 
+  As the topic of my research, I will adjust the calculation of delta and try to optimize delta hedging. The first step will be to take the "volatility smile" into account. 
   
 
