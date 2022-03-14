@@ -25,5 +25,5 @@
   
  - Other financial instruments trading can be included. 
  
-  Besides the most commonly traded stocks, other financial instruments like bonds or derivatives may also be added to enlarge the functionality of the whole library. 
+     Besides the most commonly traded stocks, other financial instruments like bonds or derivatives may also be added to enlarge the functionality of the whole library. 
 
